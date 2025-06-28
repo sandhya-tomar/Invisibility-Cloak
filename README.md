@@ -40,6 +40,7 @@ pip install -r requirements.txt
 🎮 Run the App
 python app.py
 
+```
 🧥 Wear a red cloak (or any target color set in code)
 🎥 Stand in front of your webcam
 🪄 Watch yourself disappear!
@@ -49,3 +50,12 @@ Press q to quit.
 📚 References & Credits
 Inspired by Harry Potter’s iconic invisibility cloak 🧙‍♂️
 Based on tutorials by CodeWithHarry, Murtaza's Workshop, and OpenCV docs
+
+🤓 What I Learned
+Real-time video capture with OpenCV
+
+Color detection using HSV space
+
+Masking and bitwise operations for creative effects
+
+Blending creativity with code = ✨ MAGIC ✨
